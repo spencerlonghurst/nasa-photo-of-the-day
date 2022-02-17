@@ -8,10 +8,6 @@ const StyledDiv = styled.div `
   background-color: ${prop => prop.theme.primaryColor};
 `
 
-
-
-
-
 function App() {
   const [data, setData] = useState();
 
